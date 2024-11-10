@@ -1,0 +1,8 @@
+urllib3==2.2.3
+Appium-Python-Client==3.2.1
+selenium==4.15.0
+robotframework==7.1.0
+robotframework-appiumlibrary==2.1.0
+robotframework-browser==18.9.0
+robotframework-seleniumlibrary==6.6.1
+PyYAML==6.0.2
