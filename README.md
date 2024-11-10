@@ -103,7 +103,7 @@ This sample Test Automation consists of 4 main folders :
 
 * config
    ```
-   Contains basic configuration of Variables, Settings, and Keyword wich will be used globally on this whole project
+   Contains basic configuration of Variables, Settings, and Keyword wich will be used globally on each platform
    ```
 * log
    ```
@@ -111,14 +111,14 @@ This sample Test Automation consists of 4 main folders :
    ```
 * resources
    ```
-   Consists of 3 more folders :
+   Consists of 3 more folders inside each platform :
    > helpers  : contains any action which might be used globally on any pages
    > locators : contains web element for each specific web pages
    > pages    : contains actions which will be performed on each specific web pages
    ```
 * tests
    ```
-   Contains test cases
+   Contains test cases for each platform
    ```
 
 Apart from these 4 folders, this sample also using `env.yaml` file which can be used to store configuration-specific data.
