@@ -16,12 +16,13 @@ You can refer to my other 4 Repository if you want specific usage :
 5. Install [JDK](https://www.oracle.com/id/java/technologies/downloads/).
 6. Install [Android Studio](https://developer.android.com/studio/install), and install Android SDK using Android Studio.
 7. Update JAVA_HOME and ANDROID_HOME to yout PATH file. There is no easy way to explain this. You can refer [here](https://medium.com/@omurdenden/set-java-home-and-bin-directory-for-appium-testing-in-macos-f8cee3fe56b4) or Google it.
-8. Install [Node](https://nodejs.org/en/download/package-manager).
-9. Install [Appium](https://appium.io/docs/en/2.2/quickstart/install/) and install appium driver `uiautomator2`.
-10. Install and run [appium-doctor](https://www.npmjs.com/package/appium-doctor) to make sure all your appium's dependencies are OK, trouble shoot if any red "x" appears (you need to google it yourself).
-11. Install [ADB](https://www.xda-developers.com/install-adb-windows-macos-linux/), or add ADB installed from Android Studio into your PATH file.
-12. Download and install this [Demo Apps](https://github.com/saucelabs/my-demo-app-rn/releases), `.apk` file for Android Device / Android Emulator, `.ipa` file for iOS Real Device or extract `.zip` file and and put the extracted `.app` file into iOS Simulator. Credit to [Wim Selles](https://github.com/wswebcreation).
-13. Download and open this code repository on your local Code Editor and run these 2 commands :
+8. Install [XCode](https://apps.apple.com/us/app/xcode/id497799835?mt=12), and XCode Command Line Tools (`xcode-select --install`).
+9. Install [Node](https://nodejs.org/en/download/package-manager).
+10. Install [Appium](https://appium.io/docs/en/2.2/quickstart/install/) and install appium driver `uiautomator2`.
+11. Install and run [appium-doctor](https://www.npmjs.com/package/appium-doctor) to make sure all your appium's dependencies are OK, trouble shoot if any red "x" appears (you need to google it yourself).
+12. Install [ADB](https://www.xda-developers.com/install-adb-windows-macos-linux/), or add ADB installed from Android Studio into your PATH file.
+13. Download and install this [Demo Apps](https://github.com/saucelabs/my-demo-app-rn/releases), `.apk` file for Android Device / Android Emulator, `.ipa` file for iOS Real Device or extract `.zip` file and and put the extracted `.app` file into iOS Simulator. Credit to [Wim Selles](https://github.com/wswebcreation).
+14. Download and open this code repository on your local Code Editor and run these 2 commands :
    ```
    pip install -r requirements.txt
    rfbrowser init
