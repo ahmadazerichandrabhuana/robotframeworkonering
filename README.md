@@ -64,6 +64,7 @@ ios_udid: 7XXDXXXX-FXXX-XX9X-8XXX-XXXXCXXXFXXX
    ```
    robot tests/{platform_folder}
    sample :
+   robot tests/api
    robot tests/app_android
    robot tests/app_ios
    robot tests/web_browser
