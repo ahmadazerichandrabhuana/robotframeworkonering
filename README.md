@@ -24,10 +24,10 @@ You can refer to my 5 other Repositories if you want specific usage :
 12. Install [ADB](https://www.xda-developers.com/install-adb-windows-macos-linux/), or add ADB installed from Android Studio into your PATH file.
 13. Download and install this [Demo Apps](https://github.com/saucelabs/my-demo-app-rn/releases), `.apk` file for Android Device / Android Emulator, `.ipa` file for iOS Real Device or extract `.zip` file and and put the extracted `.app` file into iOS Simulator. Credit to [Wim Selles](https://github.com/wswebcreation).
 14. Download and open this code repository on your local Code Editor and run these 2 commands :
-   ```
-   pip install -r requirements.txt
-   rfbrowser init
-   ```
+    ```
+    pip install -r requirements.txt
+    rfbrowser init
+    ```
    - If the pip process is failed, try to downgrade your python version. I used python `3.9.10` when creating this repository (that's why I suggest it on requirements above). When I tried on different local machine with python `3.13.0` somehow the pip process is error.
    - If `rfbrowser init` is failed, you may forgot to install NodeJS, install it first.
 
