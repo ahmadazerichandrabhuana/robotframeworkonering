@@ -39,9 +39,9 @@ adb devices
 ```
 Put it on file `env.yaml` line 7 : 
 ```
-udid: {your device udid}
+android_udid: {your Android device udid}
 sample : 
-udid: emulator-5554
+android_udid: emulator-5554
 ```
 ## Device Connection - iOS
 
@@ -49,9 +49,9 @@ Connect your device to your computer, or open iOS Simulator, and check it's udid
 
 Put the udid/identifier on file `env.yaml` line 8 : 
 ```
-udid: {your device udid}
+ios_udid: {your iOS device udid/identifier}
 sample : 
-udid: 7XXDXXXX-FXXX-XX9X-8XXX-XXXXCXXXFXXX
+ios_udid: 7XXDXXXX-FXXX-XX9X-8XXX-XXXXCXXXFXXX
 ```
 
 ## Run Tests
