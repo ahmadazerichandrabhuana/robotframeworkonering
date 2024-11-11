@@ -6,7 +6,7 @@ You can refer to my 5 other Repositories if you want specific usage :
 - [Android Test Automation](https://github.com/ahmadazerichandrabhuana/robotframeworkandroid)
 - [IOS Test Automation](https://github.com/ahmadazerichandrabhuana/robotframeworkios)
 - [Web Test Automation using Browser Library](https://github.com/ahmadazerichandrabhuana/robotframeworkbrowser)
-- [Web Test Automation using Test Automation](https://github.com/ahmadazerichandrabhuana/robotframeworkselenium)
+- [Web Test Automation using Selenium Library](https://github.com/ahmadazerichandrabhuana/robotframeworkselenium)
 
 ## Requirements
 
