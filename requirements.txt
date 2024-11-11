@@ -5,4 +5,5 @@ robotframework==7.1.0
 robotframework-appiumlibrary==2.1.0
 robotframework-browser==18.9.0
 robotframework-seleniumlibrary==6.6.1
+robotframework-requests==0.8.0
 PyYAML==6.0.2
