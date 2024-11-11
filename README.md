@@ -75,6 +75,7 @@ ios_udid: 7XXDXXXX-FXXX-XX9X-8XXX-XXXXCXXXFXXX
    ```
    robot tests/{platform_folder}/{test_file_name_with_extension.robot}
    sample :
+   robot tests/api/ContactListAPITest.robot
    robot tests/app_android/001.robot
    robot tests/app_ios/001.robot
    robot tests/web_browser/001.robot
