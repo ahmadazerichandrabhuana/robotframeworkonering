@@ -16,13 +16,13 @@ You can refer to my 5 other Repositories if you want specific usage :
 4. Update python to your PATH file. Refer [here](https://realpython.com/add-python-to-path/), this website covered configuration for Windows, Linux, and MacOS. Or, if you prefer using python version management tools, refer to [this article](https://medium.com/@zorozeri/how-to-install-pyenv-and-manage-pythonversion-on-your-local-machine-241b119b7ae9) for using [pyenv](https://github.com/pyenv/pyenv).
 5. Install [JDK](https://www.oracle.com/java/technologies/downloads/).
 6. Install [Android Studio](https://developer.android.com/studio/install), and install Android SDK using Android Studio.
-7. Update JAVA_HOME and ANDROID_HOME to yout PATH file. There is no easy way to explain this. You can refer [here](https://medium.com/@zorozeri/setting-up-java-home-5abae0118bfe) or Google it.
+7. Update JAVA_HOME and ANDROID_HOME to your PATH file. There is no easy way to explain this. You can refer [here](https://medium.com/@zorozeri/setting-up-java-home-5abae0118bfe) or Google it.
 8. Install [XCode](https://apps.apple.com/us/app/xcode/id497799835?mt=12), and XCode Command Line Tools (`xcode-select --install`).
 9. Install [NodeJS](https://nodejs.org/en/download/package-manager).
 10. Install [Appium](https://appium.io/docs/en/2.2/quickstart/install/) then install appium driver `uiautomator2` and install appium driver `xcuitest`.
 11. Install and run [appium-doctor](https://www.npmjs.com/package/appium-doctor) to make sure all your appium's dependencies are OK, trouble shoot if any red "x" appears (you need to google it yourself).
 12. Install [ADB](https://www.xda-developers.com/install-adb-windows-macos-linux/), or add ADB installed from Android Studio into your PATH file.
-13. Download and install this [Demo Apps](https://github.com/saucelabs/my-demo-app-rn/releases), `.apk` file for Android Device / Android Emulator, `.ipa` file for iOS Real Device or extract `.zip` file and and put the extracted `.app` file into iOS Simulator. Credit to [Wim Selles](https://github.com/wswebcreation).
+13. Download and install this [Demo Apps](https://github.com/saucelabs/my-demo-app-rn/releases), `.apk` file for Android Device / Android Emulator, `.ipa` file for iOS Real Device or extract `.zip` file and put the extracted `.app` file into iOS Simulator. Credit to [Wim Selles](https://github.com/wswebcreation).
 14. Download and open this code repository on your local Code Editor and run these 2 commands :
     ```
     pip install -r requirements.txt
